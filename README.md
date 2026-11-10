@@ -28,7 +28,7 @@ GhostDrop lets you browse files on your Windows PC and transfer files between yo
 
 ### Windows Application
 
-![GhostDrop Windows Server](screenshots/windows-server.jpg)
+![GhostDrop Windows Server](screenshots/windows-server.png)
 
 ## Requirements
 
