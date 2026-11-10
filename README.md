@@ -1,4 +1,8 @@
-# GhostDrop
+<h1 align="center">
+  <img src="ghostdrop-icon.png" width="60" height="60" alt="GhostDrop Icon">
+  <br>
+  GhostDrop
+</h1>
 
 **Simple file transfer between Android and Windows.**
 
