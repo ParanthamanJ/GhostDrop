@@ -12,6 +12,24 @@ GhostDrop lets you browse files on your Windows PC and transfer files between yo
 - Simple and minimal interface.
 - Local network file transfers.
 
+## Screenshots
+
+### Android App
+
+| Connection | Home |
+|---|---|
+| ![Connection](screenshots/connection.jpg) | ![Home](screenshots/home.jpg) |
+
+### File Transfer
+
+| PC to Phone | Phone to PC |
+|---|---|
+| ![PC to Phone](screenshots/pc-to-phone.jpg) | ![Phone to PC](screenshots/phone-to-pc.jpg) |
+
+### Windows Application
+
+![GhostDrop Windows Server](screenshots/windows-server.jpg)
+
 ## Requirements
 
 - Android device.
